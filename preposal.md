@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+We were thinking of doing a NYT Connections sort of game, where we set up 4 groups of 4 words seperated into a randomized grid and the user has to choose which 4 words are paired together. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Yes, I plan on working with Nicole Conelly and Heidi Wright. 
 
 ## Do you have any questions of your own?
 
-TODO
+No, I do not. 
